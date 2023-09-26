@@ -27,7 +27,7 @@ This Cordova / PhoneGap (3.5+) plugin enables concurrency (multi-channel playbac
 
 Via Cordova CLI:
 ```bash
-cordova plugin add cordova-plugin-advanced-nativeaudio
+cordova plugin add cordova-codeplay-plugin-advanced-nativeaudio-fix-android12
 ```
 
 ## Usage
