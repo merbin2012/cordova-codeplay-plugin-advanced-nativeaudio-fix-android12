@@ -1,0 +1,38 @@
+{
+  "name": "cordova-codeplay-plugin-advanced-nativeaudio-fix-android12",
+  "version": "1.0.0",
+  "description": "Cordova/PhoneGap Plugin for low latency Native Audio Playback, must have for HTML5 games",
+  "cordova": {
+    "id": "cordova-codeplay-plugin-advanced-nativeaudio-fix-android12",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merbin2012/cordova-codeplay-plugin-advanced-nativeaudio-fix-android12.git"
+  },
+  "bugs": {
+    "url": "https://github.com/merbin2012/cordova-codeplay-plugin-advanced-nativeaudio-fix-android12/issues"
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "music",
+    "audio",
+    "game",
+    "mp3"
+  ],
+  "author": "merbin2012",
+  "license": "MIT",
+  "main": "./src/ionic/index.js",
+  "types": "./src/ionic/index.d.ts",
+  "homepage": "https://github.com/merbin2012/cordova-codeplay-plugin-advanced-nativeaudio-fix-android12#readme",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.5"
+    }
+  ]
+}
